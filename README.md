@@ -1,2 +1,3 @@
 # Angular-Project-Demo
-This is a angular demo project 
+This is an angular demo project
+Author - Ashwinee Kumar
